@@ -1,0 +1,6 @@
+venv/
+.gitignore
+tasks/
+poetry.lock
+pyproject.toml
+__pycache__/

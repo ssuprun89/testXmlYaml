@@ -1,0 +1,30 @@
+[
+    {
+        "name": "pudding",
+        "ingredients": [
+            {
+                "item": "milk",
+                "quantity": 3.78,
+                "unit": "liter"
+            },
+            {
+                "item": "sugar",
+                "quantity": 480.0,
+                "unit": "ml"
+            },
+            {
+                "item": "vanilla",
+                "quantity": 10.0,
+                "unit": "ml"
+            },
+            {
+                "item": "egg yolks",
+                "quantity": 12.0,
+                "comment": "room temperature"
+            }
+        ],
+        "preperations": [
+            "omitted for brevity"
+        ]
+    }
+]

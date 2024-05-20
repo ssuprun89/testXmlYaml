@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "testXmlYaml"
+version = "0.1.0"
+description = ""
+authors = ["Sergey <suprun.sergey89@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyyaml = "^6.0.1"
+pytest = "^8.2.1"
+
+[tool.poetry.group.tests]
+optional = true
+
+[tool.poetry.group.tests.dependencies]
+black = "^23.9.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
